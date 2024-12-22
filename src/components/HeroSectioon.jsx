@@ -1,13 +1,12 @@
 import React from "react";
-import { Sparkles } from "lucide-react";
+import { RiSparklingFill } from "react-icons/ri";
 
 const Hero = () => {
   return (
     <div>
        <div className="text-orange-400 mt-12 font-extralight flex justify-center items-center space-x-2">
-      <Sparkles size={24} />
+      <RiSparklingFill size={24} />
       <h1 className="text-sm font-bold tracking-widest">WELCOME TO UNI-FY</h1>
-      <Sparkles size={24} />
     </div>
     <div className="text-white text-center py-20 px-4">
       <h2 className="text-[60px] font-bold mb-4">
