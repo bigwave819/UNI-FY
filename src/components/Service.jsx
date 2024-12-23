@@ -33,7 +33,7 @@ const App = () => {
         <div className="flex h-[350px] p-10">
           <div className="relative group h-64">
             <img
-              src={Shoot1}
+              src={Shoot2}
               alt="hey"
               className="h-64 w-[700px] overflow-hidden rounded-3xl"
             />
@@ -74,7 +74,7 @@ const App = () => {
   <div className="p-4 flex-none">
     <div className="relative group h-64">
       <img
-        src={Shoot1}
+        src={Shoot3}
         alt="hey"
         className="h-64 md:w-[350px] w-full overflow-hidden rounded-3xl"
       />
@@ -99,7 +99,7 @@ const App = () => {
   <div className="p-4 flex-none">
     <div className="relative group h-64">
       <img
-        src={Shoot1}
+        src={Shoot4}
         alt="hey"
         className="h-64 md:w-[350px] w-full overflow-hidden rounded-3xl"
       />
@@ -125,7 +125,7 @@ const App = () => {
   <div className="p-4 flex-none">
     <div className="relative group h-64">
       <img
-        src={Shoot1}
+        src={Shoot5}
         alt="hey"
         className="h-64 md:w-[400px] w-full overflow-hidden rounded-3xl"
       />
